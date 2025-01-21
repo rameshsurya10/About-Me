@@ -8,6 +8,7 @@ I'm a passionate tech enthusiast with a strong foundation in Data Analysis, Full
 
 B.E. in Computer Science and Engineering - RVS College of Engineering and Technology (2019–2023)
 Certified in Python Programming, Power BI, Tableau, and more.
+
 💻 Work Experience:
 
 Data Analyst Intern @ Skill Lync – Applied advanced data analysis to solve real-world problems.
@@ -21,20 +22,38 @@ Tableau, Power BI, Advanced Excel
 Web: HTML, Responsive CSS (Bootstrap)
 API Development: Flask, Postman
 Version Control: Git, GitHub
+
 📂 Projects
+
+🌐 Responsive Portfolio
+Tech Stack: HTML, CSS (Bootstrap), JavaScript
+Description: A responsive personal portfolio showcasing my skills and projects.
+
+👔 Employee Management System
+Tech Stack: Flask, MySQL, HTML, CSS (Bootstrap)
+Description: A system to manage employee data with login, registration, and CRUD operations.
+
 🚗 Uber Supply-Demand Gap Analysis
-Tech: Python, Pandas, Matplotlib
-Analyzed data to identify and propose solutions for the supply-demand mismatch in Uber rides.
-💡 Loan Default Prediction
-Tech: Scikit-learn, Flask
-Built a machine learning model to predict loan defaults and deployed the solution as a web application.
+Tech Stack: Python, Pandas
+Description: Analyzed Uber data to find supply-demand gaps.
+
+💳 Loan Default Prediction
+Tech Stack: Scikit-learn, Flask
+Description: ML model to predict loan defaults.
+
+📊 Sales Data Dashboard
+Tech Stack: Power BI, Tableau
+Description: Interactive sales dashboard with performance insights.
+
 🌐 Personal Portfolio Website
+
 Tech: React, Flask, Bootstrap
 A fully responsive website showcasing my skills and projects.
+
+
 📈 GitHub Stats
 
-
 🌐 Connect with Me
-LinkedIn: Ramesh Aravindh T
+LinkedIn: www.linkedin.com/in/ramesharavindh08
 GitHub: rameshsurya10
 Email: ramesharavindht@gmail.com
